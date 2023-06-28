@@ -1,0 +1,1558 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "B8o6n2ZaIT7gzPEQHgefVV6nnXw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "1fTlHYc-Tdmx_RXYRG-jCnG07Yk",
+      "id": "t5AaSY9TOTY",
+      "snippet": {
+        "publishedAt": "2023-06-26T02:12:36Z",
+        "channelId": "UCcVqCJ_9owb1zM43vqswMNQ",
+        "title": "Migos Came Together For Legendary Reunion Performance Honoring Takeoff ONLY On BET! | BET Awards '23",
+        "description": "Watch the historic Migos reunion performance celebrating Takeoff & their hits ONLY on the 2023 BET Awards stage! #BET #BETAwards #CulturesBiggestNight #BETAwards23 #BETHipHop50\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t5AaSY9TOTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t5AaSY9TOTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t5AaSY9TOTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t5AaSY9TOTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t5AaSY9TOTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BETNetworks",
+        "tags": [
+          "BET",
+          "BET Networks",
+          "BET Music",
+          "Black Entertainment Television",
+          "ytao_betawards_2023",
+          "Black Music Month",
+          "BET Awards",
+          "2023 BET Awards",
+          "BET Awards '23",
+          "Black Music",
+          "awards",
+          "awards show",
+          "celebrities",
+          "Migos"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Migos Came Together For Legendary Reunion Performance Honoring Takeoff ONLY On BET! | BET Awards '23",
+          "description": "Watch the historic Migos reunion performance celebrating Takeoff & their hits ONLY on the 2023 BET Awards stage! #BET #BETAwards #CulturesBiggestNight #BETAwards23 #BETHipHop50\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QkpWcAakmde2h-G3FnjmOzU7WM8",
+      "id": "tyzeSFlLIc0",
+      "snippet": {
+        "publishedAt": "2023-06-26T12:45:04Z",
+        "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+        "title": "Mother of 19-year-old on Titan submersible speaks out",
+        "description": "The United States Coast Guard says it’s convening a marine board of investigators to figure out what caused the deep-sea implosion of OceanGate’s Titan submersible. Meanwhile, the wife and mother of two of the passengers is opening up about her last moments with them. NBC’s Emilie Ikeda reports for TODAY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tyzeSFlLIc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TODAY",
+        "tags": [
+          "Al Roker",
+          "Entertainment",
+          "Food",
+          "Hoda Kotb",
+          "International News",
+          "Money",
+          "Natalie Morales",
+          "Savannah Gutherie",
+          "Sports",
+          "Style",
+          "Today",
+          "Today Show",
+          "breaking news",
+          "concerts",
+          "domestic news",
+          "health",
+          "home",
+          "interviews",
+          "media",
+          "parents",
+          "pets",
+          "politics",
+          "shopping",
+          "weather"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mother of 19-year-old on Titan submersible speaks out",
+          "description": "The United States Coast Guard says it’s convening a marine board of investigators to figure out what caused the deep-sea implosion of OceanGate’s Titan submersible. Meanwhile, the wife and mother of two of the passengers is opening up about her last moments with them. NBC’s Emilie Ikeda reports for TODAY."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KqVg-reQh0fqCB_i2aeq-UL9B9w",
+      "id": "ESOjt2_yJrU",
+      "snippet": {
+        "publishedAt": "2023-06-26T13:59:46Z",
+        "channelId": "UCDE5Ezmxq1bNVak4lmkpCMw",
+        "title": "Falling In Reverse - \"Last Resort (Reimagined)\"",
+        "description": "\"Last Resort (Reimagined)\" by @FallingInReverse \nStream & download: https://fallinginreverse.ffm.to/lastresort\n\nWritten by David Buckner, Tobin Esperance, Jerry Horton & Jacoby Shaddix\nProduced by Ronnie Radke and Tyler Smyth\nOrchestral / piano arrangement by Sean Rooney\nMixed and mastered by Tyler Smyth\n\nCREW:\nDirector: Jensen Noen\nProducers: Phoenix Vaughn, Ruth Devereaux, Ashley Haines\nExecutive Producers: Frank Borin & Ivanna Borin\nProduction Company: Blesscode Entertainment\nCinematographer: Justin Jones\nProduction Designer: Eric Finn Hersey\nCo-Producer: Jessica Harris\n1st AD: Tiffany Waxler\nCasting Directors: Nadia Teichmann & Lina Farache\nArt Director: Christina Giddens-Garcia\nHMU Designer: Melissa Stell \nStunt Coordinator/RIgger: Brandon Belieu\nFPV Drone Pilot: Alex Vanover\nGaffer: Kay Zhou\nBest Boy Electric: Ben Agee\nElectricians: Bailey Clark, Ethan Waddell, Michael Roseman, Noah Shettel, Jordan Driskill\nKey Grip: Spenser Adelstein\nBest Boy Grip: Steve Carmer\nGrips: David Adam, Sebastian Lam, Nick Lundstrom, Marcial Gonzales\n1st AC (A Cam): Aric Abraham\n1st AC (B Cam): Kraig Bryant\n2nd AC: Neil Hausey\nTechno Jib Op: Scott Acosta\nTechno Jib Tech: Joel “Kirk” Fletcher\nHMU Key Artist: Alex Romanenko\nHMU Assistant: Morgan Mcvey \nSet Dresser: Arthur Guimaraes\n2nd AD: Elliot Gannon\n2nd 2nd AD: Sean Doyle\nKey PA: Jack Montague\nProduction PAs: Danny Lopez, Quinton Couch, Yurii Fedorov, Audrey Eck\nPost Production: Blesscode Entertainment\nVisual Effects: TiltFX & Alex Verenchyck\nColor Correction: Lunar Edge\n\nCAST: \nCello Players: Sylvie Grace & Candyce Raiford\nViola Players: Annika Adudley & Hailey Walterman\nViolin Players: Lainey Elizabeth & Emily Kilimnik\n\nLyrics\n\nCut my life into pieces\nThis is my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nThis is my last resort\nCut my life into pieces\nI've reached my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nDo you even care if I die bleeding?\nWould it be wrong, would it be right\nIf I took my life tonight?\nChances are that I might\nMutilation out of sight\nAnd I'm contemplating suicide\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nI never realized I was spread too thin\n'Til it was too late, and I was empty within\nHungry, feeding on chaos and living in sin\nDownward spiral, where do I begin?\nIt all started when I lost my mother\nNo love for myself and no love for another\nSearching to find a love upon a higher level\nFinding nothing but questions and devils\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nNothing's alright, nothing is fine\nI'm running and I'm crying\nI'm crying, I'm crying\nI'm crying, I'm crying\nI can't go on living this way\nCut my life into pieces\nThis is my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nWould it be wrong, would it be right\nIf I took my life tonight?\nChances are that I might\nMutilation out of sight\nAnd I'm contemplating suicide\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nNothing's alright, nothing is fine\nI'm running and I'm crying\nI can't go on living this way\nCan't go on\nLiving this way\nNothing's alright\n\nFOLLOW FALLING IN REVERSE\n▶ Store: https://fallinginreverse.ffm.to/store\n▶ Website: http://fallinginreverse.com\n▶ Facebook: https://www.facebook.com/fallinginreverseofficial\n▶ Instagram: http://instagram.com/fallinginreverse\n▶ Twitter: https://twitter.com/FIROfficial\n▶ Spotify: https://spoti.fi/3HeKLgc\n▶ Apple: https://apple.co/3uUNHLt\n▶ Amazon: https://amzn.to/3pzVPOf\n______________________\n\nEpitaph Records is an artist-first indie label founded in Los Angeles by Bad Religion guitarist, Brett Gurewitz.  Early releases from a variety of punk heavyweights helped launch the 90s punk explosion.  Along the way, Epitaph has grown and evolved creatively while sticking to its mission of helping real artists make great recordings on their own terms.\n\nFOLLOW EPITAPH RECORDS\n▶ Website: https://www.epitaph.com \n▶ Instagram: https://instagram.com/epitaphrecords\n▶ Facebook: https://facebook.com/epitaphrecords\n▶ Twitter: https://twitter.com/epitaphrecords\n▶ TikTok: https://tiktok.com/@epitaphrecords\n▶ Spotify: https://spoti.fi/3p6o4E5 \n▶ Apple: https://apple.co/3GR6wSy\n▶ Store: https://epitaph.ffm.to/store\n\n#fallinginreverse #lastresort #epitaph",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ESOjt2_yJrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ESOjt2_yJrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ESOjt2_yJrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ESOjt2_yJrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ESOjt2_yJrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Epitaph Records",
+        "tags": [
+          "epitaph",
+          "epitaph records",
+          "rock",
+          "alternative",
+          "indie",
+          "punk",
+          "metal",
+          "falling in reverse",
+          "last resort",
+          "last resort reimagined",
+          "falling in reverse last resort",
+          "falling in reverse last resort reimagined",
+          "papa roach",
+          "papa roach last resort",
+          "last resort cover",
+          "papa roach cover",
+          "ronnie radke",
+          "ronnie radke last resort",
+          "ronnie radke last resort reimagined",
+          "falling in reverse official video",
+          "falling in reverse official audio",
+          "last resort reimagined official video",
+          "falling in reverse 2023"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Falling In Reverse - \"Last Resort (Reimagined)\"",
+          "description": "\"Last Resort (Reimagined)\" by @FallingInReverse \nStream & download: https://fallinginreverse.ffm.to/lastresort\n\nWritten by David Buckner, Tobin Esperance, Jerry Horton & Jacoby Shaddix\nProduced by Ronnie Radke and Tyler Smyth\nOrchestral / piano arrangement by Sean Rooney\nMixed and mastered by Tyler Smyth\n\nCREW:\nDirector: Jensen Noen\nProducers: Phoenix Vaughn, Ruth Devereaux, Ashley Haines\nExecutive Producers: Frank Borin & Ivanna Borin\nProduction Company: Blesscode Entertainment\nCinematographer: Justin Jones\nProduction Designer: Eric Finn Hersey\nCo-Producer: Jessica Harris\n1st AD: Tiffany Waxler\nCasting Directors: Nadia Teichmann & Lina Farache\nArt Director: Christina Giddens-Garcia\nHMU Designer: Melissa Stell \nStunt Coordinator/RIgger: Brandon Belieu\nFPV Drone Pilot: Alex Vanover\nGaffer: Kay Zhou\nBest Boy Electric: Ben Agee\nElectricians: Bailey Clark, Ethan Waddell, Michael Roseman, Noah Shettel, Jordan Driskill\nKey Grip: Spenser Adelstein\nBest Boy Grip: Steve Carmer\nGrips: David Adam, Sebastian Lam, Nick Lundstrom, Marcial Gonzales\n1st AC (A Cam): Aric Abraham\n1st AC (B Cam): Kraig Bryant\n2nd AC: Neil Hausey\nTechno Jib Op: Scott Acosta\nTechno Jib Tech: Joel “Kirk” Fletcher\nHMU Key Artist: Alex Romanenko\nHMU Assistant: Morgan Mcvey \nSet Dresser: Arthur Guimaraes\n2nd AD: Elliot Gannon\n2nd 2nd AD: Sean Doyle\nKey PA: Jack Montague\nProduction PAs: Danny Lopez, Quinton Couch, Yurii Fedorov, Audrey Eck\nPost Production: Blesscode Entertainment\nVisual Effects: TiltFX & Alex Verenchyck\nColor Correction: Lunar Edge\n\nCAST: \nCello Players: Sylvie Grace & Candyce Raiford\nViola Players: Annika Adudley & Hailey Walterman\nViolin Players: Lainey Elizabeth & Emily Kilimnik\n\nLyrics\n\nCut my life into pieces\nThis is my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nThis is my last resort\nCut my life into pieces\nI've reached my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nDo you even care if I die bleeding?\nWould it be wrong, would it be right\nIf I took my life tonight?\nChances are that I might\nMutilation out of sight\nAnd I'm contemplating suicide\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nI never realized I was spread too thin\n'Til it was too late, and I was empty within\nHungry, feeding on chaos and living in sin\nDownward spiral, where do I begin?\nIt all started when I lost my mother\nNo love for myself and no love for another\nSearching to find a love upon a higher level\nFinding nothing but questions and devils\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nNothing's alright, nothing is fine\nI'm running and I'm crying\nI'm crying, I'm crying\nI'm crying, I'm crying\nI can't go on living this way\nCut my life into pieces\nThis is my last resort\nSuffocation, no breathing\nDon't give a fuck if I cut my arm bleeding\nWould it be wrong, would it be right\nIf I took my life tonight?\nChances are that I might\nMutilation out of sight\nAnd I'm contemplating suicide\n'Cause I'm losing my sight, losing my mind\nWish somebody would tell me I'm fine\nLosing my sight, losing my mind\nWish somebody would tell me I'm fine\nNothing's alright, nothing is fine\nI'm running and I'm crying\nI can't go on living this way\nCan't go on\nLiving this way\nNothing's alright\n\nFOLLOW FALLING IN REVERSE\n▶ Store: https://fallinginreverse.ffm.to/store\n▶ Website: http://fallinginreverse.com\n▶ Facebook: https://www.facebook.com/fallinginreverseofficial\n▶ Instagram: http://instagram.com/fallinginreverse\n▶ Twitter: https://twitter.com/FIROfficial\n▶ Spotify: https://spoti.fi/3HeKLgc\n▶ Apple: https://apple.co/3uUNHLt\n▶ Amazon: https://amzn.to/3pzVPOf\n______________________\n\nEpitaph Records is an artist-first indie label founded in Los Angeles by Bad Religion guitarist, Brett Gurewitz.  Early releases from a variety of punk heavyweights helped launch the 90s punk explosion.  Along the way, Epitaph has grown and evolved creatively while sticking to its mission of helping real artists make great recordings on their own terms.\n\nFOLLOW EPITAPH RECORDS\n▶ Website: https://www.epitaph.com \n▶ Instagram: https://instagram.com/epitaphrecords\n▶ Facebook: https://facebook.com/epitaphrecords\n▶ Twitter: https://twitter.com/epitaphrecords\n▶ TikTok: https://tiktok.com/@epitaphrecords\n▶ Spotify: https://spoti.fi/3p6o4E5 \n▶ Apple: https://apple.co/3GR6wSy\n▶ Store: https://epitaph.ffm.to/store\n\n#fallinginreverse #lastresort #epitaph"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AGL6kEOAcCXZDv-eb7vFQ3njTbk",
+      "id": "Gl907s3oRe0",
+      "snippet": {
+        "publishedAt": "2023-06-26T05:42:32Z",
+        "channelId": "UCcVqCJ_9owb1zM43vqswMNQ",
+        "title": "Rah Digga, Swizz Beatz, Coi Leray & More Pay Tribute To Busta Rhymes! | BET Awards '23",
+        "description": "Description\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gl907s3oRe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gl907s3oRe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gl907s3oRe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gl907s3oRe0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gl907s3oRe0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BETNetworks",
+        "tags": [
+          "BET",
+          "BET Networks",
+          "BET Music",
+          "Black Entertainment Television"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Rah Digga, Swizz Beatz, Coi Leray & More Pay Tribute To Busta Rhymes! | BET Awards '23",
+          "description": "Description\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k6FNRDeLGQHBSbeMIRdFvMcjX_E",
+      "id": "CgNVotVutx0",
+      "snippet": {
+        "publishedAt": "2023-06-26T15:00:01Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'ASAP' Teaser",
+        "description": "NewJeans (뉴진스) 'ASAP' Teaser\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#Time_to_NewJeans\n#NewJeans #뉴진스 #NewJeans_GetUp\n#NewJeans_ASAP\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgNVotVutx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgNVotVutx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgNVotVutx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CgNVotVutx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CgNVotVutx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "NewJeans (뉴진스) 'ASAP' Teaser",
+          "description": "NewJeans (뉴진스) 'ASAP' Teaser\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL FACEBOOK https://www.facebook.com/official.newjeans\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#Time_to_NewJeans\n#NewJeans #뉴진스 #NewJeans_GetUp\n#NewJeans_ASAP\n#ADOR #어도어"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7sdtmjXvbImT2gT3KKBDXoAlGXs",
+      "id": "udaoib7lrS0",
+      "snippet": {
+        "publishedAt": "2023-06-26T02:50:59Z",
+        "channelId": "UCSo19KhHogXxu3sFsOpqrcQ",
+        "title": "Resumen y goles | México 4-0 Honduras | Copa Oro 2023 | TUDN",
+        "description": "La Selección Mexicana arranca de forma increíble en la Copa Oro, con goleada ante Honduras.\n\nSíguenos en nuestras redes sociales:\n\nhttps://www.facebook.com/tudnusa/\nhttps://www.instagram.com/tudnusa/\nhttps://twitter.com/TUDNUSA\n\nSitio Web: https://www.tudn.com/\n\nTUDN USA te ofrece la cobertura más completa del mundo deportivo con lo mejor del fútbol mexicano, de Estados Unidos y del mundo, boxeo, UFC, las grandes personalidades del deporte y mucho más. #TUDN #Futbol #Noticias",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/udaoib7lrS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/udaoib7lrS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/udaoib7lrS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/udaoib7lrS0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/udaoib7lrS0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TUDN USA",
+        "tags": [
+          "Televisa",
+          "Univision",
+          "TUDN",
+          "Televisa deportes",
+          "TUDN México",
+          "TUDN USA",
+          "Deportes",
+          "soccer",
+          "futbol mexicano",
+          "Concacaf",
+          "copa oro 2023",
+          "mexico vs honduras resumen",
+          "seleccion mexicana",
+          "mexico copa oro",
+          "Resumen México",
+          "Resumen Honduras",
+          "México 4-0 Honduras"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Resumen y goles | México 4-0 Honduras | Copa Oro 2023 | TUDN",
+          "description": "La Selección Mexicana arranca de forma increíble en la Copa Oro, con goleada ante Honduras.\n\nSíguenos en nuestras redes sociales:\n\nhttps://www.facebook.com/tudnusa/\nhttps://www.instagram.com/tudnusa/\nhttps://twitter.com/TUDNUSA\n\nSitio Web: https://www.tudn.com/\n\nTUDN USA te ofrece la cobertura más completa del mundo deportivo con lo mejor del fútbol mexicano, de Estados Unidos y del mundo, boxeo, UFC, las grandes personalidades del deporte y mucho más. #TUDN #Futbol #Noticias"
+        },
+        "defaultAudioLanguage": "es"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "siB85JvkxJJItu9aRBuMWPeAVSY",
+      "id": "D-2799Y07Zc",
+      "snippet": {
+        "publishedAt": "2023-06-24T16:15:03Z",
+        "channelId": "UCzfyYtgvkx5mLy8nlLlayYg",
+        "title": "HELLUVA BOSS - QUEEN BEE // S1: Episode 8",
+        "description": "FINALLY SEASON ONE’S FINALE-PART 2 IS HERE!!\n\nThis episode was originally meant to follow “Ozzie’s” as a big celebration of the milestone completion of our first ever indie season! A full circle accomplishment for this channel, and an incredible technical achievement for the studio. That wasn’t how things ended up happening but that is still what it is, and I’m SO f**king thrilled we can bring it to you all now!! Please understand how much we wanted to share this with you, thank you for the patience and understanding. I can’t express how proud I am of the Spindle team who were a part of it! I’m So glad the world can see their work, and it’s amazing to see how far we have come ever since.\n\nI have no other description other then offering this sincere thank you! \nPlease please enjoy this labor of love that had very real blood sweat and tears put into it.\n\nThank you for waiting, Thank you for watching, Thank you for Helluva Boss season one!!\n\nEnjoy the rest of Season One and more here!\n\nS1 Episode One ► https://www.youtube.com/watch?v=el_PChGfJN8\nS1 Episode Two ► https://www.youtube.com/watch?v=kpnwRg268FQ\nS1 Episode Three ►  https://www.youtube.com/watch?v=RghsgkZKedg\nS1 Episode Four ► https://www.youtube.com/watch?v=1ZFseYPmkAk\nS1 Episode Five ► https://www.youtube.com/watch?v=h2ZmVAdezF8\nS1 Episode Six ► https://youtu.be/yXErLiSbxXQ\nS1 Episode Seven ► https://youtu.be/8zyGQquL8VM\n\nS2 Episode One ► https://youtu.be/_spuxXnul0U\nS2 Episode Two ► https://youtu.be/4J0xFUyz1nw\nS2 Episode Three ► https://youtu.be/j1BfO7VlIw4\nS2 Episode Four ► https://youtu.be/KJy7T24rhg0\n\n#HelluvaBoss #HelluvaBossSeason1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-2799Y07Zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-2799Y07Zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-2799Y07Zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-2799Y07Zc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-2799Y07Zc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vivziepop",
+        "tags": [
+          "Helluva Boss",
+          "Helluva Boss cartoon",
+          "Helluva Boss animation",
+          "Helluva Boss official",
+          "Helluva Boss Official episode",
+          "Helluva Boss Loona",
+          "Helluva Boss Blitz",
+          "Helluva Boss Moxxie",
+          "Helluva Boss Millie",
+          "Helluva Boss Blitzo",
+          "helluva boss vivziepop",
+          "helluva boss new",
+          "helluva boss new episode",
+          "helluva boss octavia",
+          "helluva boss human loona",
+          "Helluva boss season 1 episode 8",
+          "Helluva boss s1 ep 8",
+          "helluva boss finale part 2",
+          "helluva boss episode 8"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HELLUVA BOSS - QUEEN BEE // S1: Episode 8",
+          "description": "FINALLY SEASON ONE’S FINALE-PART 2 IS HERE!!\n\nThis episode was originally meant to follow “Ozzie’s” as a big celebration of the milestone completion of our first ever indie season! A full circle accomplishment for this channel, and an incredible technical achievement for the studio. That wasn’t how things ended up happening but that is still what it is, and I’m SO f**king thrilled we can bring it to you all now!! Please understand how much we wanted to share this with you, thank you for the patience and understanding. I can’t express how proud I am of the Spindle team who were a part of it! I’m So glad the world can see their work, and it’s amazing to see how far we have come ever since.\n\nI have no other description other then offering this sincere thank you! \nPlease please enjoy this labor of love that had very real blood sweat and tears put into it.\n\nThank you for waiting, Thank you for watching, Thank you for Helluva Boss season one!!\n\nEnjoy the rest of Season One and more here!\n\nS1 Episode One ► https://www.youtube.com/watch?v=el_PChGfJN8\nS1 Episode Two ► https://www.youtube.com/watch?v=kpnwRg268FQ\nS1 Episode Three ►  https://www.youtube.com/watch?v=RghsgkZKedg\nS1 Episode Four ► https://www.youtube.com/watch?v=1ZFseYPmkAk\nS1 Episode Five ► https://www.youtube.com/watch?v=h2ZmVAdezF8\nS1 Episode Six ► https://youtu.be/yXErLiSbxXQ\nS1 Episode Seven ► https://youtu.be/8zyGQquL8VM\n\nS2 Episode One ► https://youtu.be/_spuxXnul0U\nS2 Episode Two ► https://youtu.be/4J0xFUyz1nw\nS2 Episode Three ► https://youtu.be/j1BfO7VlIw4\nS2 Episode Four ► https://youtu.be/KJy7T24rhg0\n\n#HelluvaBoss #HelluvaBossSeason1"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_5XDjVL7nYXDAkiJbtnEgahc-N0",
+      "id": "f4C3iIk78uE",
+      "snippet": {
+        "publishedAt": "2023-06-26T16:00:19Z",
+        "channelId": "UCBbehdq68NSoAUDC_7BC5Wg",
+        "title": "LA BABY - Tainy, Daddy Yankee, Feid, Sech (Official Video)",
+        "description": "#Tainy #data #LaBaby\n\nYA DISPONIBLE EN TODAS LA REDES SOCIALES: https://ffm.to/tainy-lababy\r\n\r\nFollow Me On Social Media:\r\nFacebook: https://www.facebook.com/Tainy-199594...\r\nInstagram: https://www.instagram.com/tainy/\nTikTok: https://www.tiktok.com/@tainy?lang=en\nTwitter: https://twitter.com/tainy\r\n \nLETRA:\r\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nSe me pego como los feos al carro \nLa baby es exclusive le gusta lo caro \nNo es un blanco pero yo le disparó\nMe mando una foto cuando yo le di follow \nUn culo asi ya no se consigue \nEsta nuevecita salió del dealer \nSe roba a ferxxo y le caen miles \nYo soy su cone, yo soy su dealer \n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nElla tiene cuarto, tiene guagua, tiene culo \nY se metió al gym para ponerlo mas duro\nSubió una foto y siempre yo la capturó\nY el pie de foto “ya no lloro, facturo” \nEsa gata está perdida, no tiene dueño\nArquitecta está construyendo su sueño (y)\nA to el que se la enseño\nMe dice esta buena ta’ picante jalapeño \n\n(Ella se va viral \nNo anda solia tiene su gang\nLas combi es de Alexander Wang \nLas jordan fly)\n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nTan pequeña la shorty pero anda alzá\nDe pie a cabeza mata con la grasa \nSiempre sale uno con una payasá\nY de películas está cansá\nSi ella tiene ticket ticket y se la vive \nDeja en visto a to el que le escribe \nEsta puesta a contar, pa la calle a gastar \nSocio no te complique \n\nY no, le hables si no es de cuarto y reggaeton\nPa ella eso es un crimen\n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\r\n©: 2023 NEON16, LLC. All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4C3iIk78uE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4C3iIk78uE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4C3iIk78uE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f4C3iIk78uE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f4C3iIk78uE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tainy",
+        "tags": [
+          "The Kids of Reggaeton",
+          "NEON16",
+          "Neon 16",
+          "Tainy",
+          "La Baby",
+          "Sech",
+          "Daddy Yankee",
+          "Feid",
+          "Tainy Album",
+          "Tainy Nuevo Sencillo",
+          "Tainy Nuevo Disco",
+          "DATA",
+          "Tainy 2023",
+          "Lababy",
+          "Latin Music"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LA BABY - Tainy, Daddy Yankee, Feid, Sech (Official Video)",
+          "description": "#Tainy #data #LaBaby\n\nYA DISPONIBLE EN TODAS LA REDES SOCIALES: https://ffm.to/tainy-lababy\r\n\r\nFollow Me On Social Media:\r\nFacebook: https://www.facebook.com/Tainy-199594...\r\nInstagram: https://www.instagram.com/tainy/\nTikTok: https://www.tiktok.com/@tainy?lang=en\nTwitter: https://twitter.com/tainy\r\n \nLETRA:\r\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nSe me pego como los feos al carro \nLa baby es exclusive le gusta lo caro \nNo es un blanco pero yo le disparó\nMe mando una foto cuando yo le di follow \nUn culo asi ya no se consigue \nEsta nuevecita salió del dealer \nSe roba a ferxxo y le caen miles \nYo soy su cone, yo soy su dealer \n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nElla tiene cuarto, tiene guagua, tiene culo \nY se metió al gym para ponerlo mas duro\nSubió una foto y siempre yo la capturó\nY el pie de foto “ya no lloro, facturo” \nEsa gata está perdida, no tiene dueño\nArquitecta está construyendo su sueño (y)\nA to el que se la enseño\nMe dice esta buena ta’ picante jalapeño \n\n(Ella se va viral \nNo anda solia tiene su gang\nLas combi es de Alexander Wang \nLas jordan fly)\n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\nTan pequeña la shorty pero anda alzá\nDe pie a cabeza mata con la grasa \nSiempre sale uno con una payasá\nY de películas está cansá\nSi ella tiene ticket ticket y se la vive \nDeja en visto a to el que le escribe \nEsta puesta a contar, pa la calle a gastar \nSocio no te complique \n\nY no, le hables si no es de cuarto y reggaeton\nPa ella eso es un crimen\n\nLa baby tiene cuarto (yeah) \nLlegó en guagua tintiá y con aros 23 \nLe da duro al gimnasio (yeah)\nBailando reggaeton yo se la dejo caer \n\r\n©: 2023 NEON16, LLC. All Rights Reserved."
+        },
+        "defaultAudioLanguage": "es"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IJRFAjr3hsOQ76qLA-ScNpCuowM",
+      "id": "oMYxqF2p1Fo",
+      "snippet": {
+        "publishedAt": "2023-06-25T14:02:57Z",
+        "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+        "title": "Our Son’s Unexpected Surgery…",
+        "description": "Our Son’s Unexpected Surgery…\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉  @royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 @RoyaltyGaming1 \n \nMore AMAZING Videos! 👇\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\ni SNUCK into an ONLY GIRLS School!\n👉 https://youtu.be/8XYpogDZdCI\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nOur Son’s Unexpected Surgery…\nhttps://youtu.be/oMYxqF2p1Fo\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMYxqF2p1Fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMYxqF2p1Fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMYxqF2p1Fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oMYxqF2p1Fo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oMYxqF2p1Fo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Royalty Family",
+        "tags": [
+          "The Royalty Family",
+          "Royalty Family",
+          "Andrea Espada",
+          "Family Friendly",
+          "Royalty",
+          "Royal Family",
+          "The Royal Family",
+          "Royalty Fam",
+          "The Royalty Fam",
+          "Realty Family",
+          "Roti Family",
+          "Family Vlog",
+          "royalty family",
+          "royalty",
+          "royal",
+          "royalty fam",
+          "Ali andrea",
+          "Andrea ali",
+          "royalty gaming",
+          "royalty family baby",
+          "royalty baby",
+          "challenge",
+          "Jordan matter",
+          "Rebecca zamolo",
+          "Dhar maan",
+          "ferran",
+          "father tries to find his son blindfolded",
+          "fathers day",
+          "ferrans father",
+          "our sons unexpected surgery",
+          "surgery",
+          "milan"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Our Son’s Unexpected Surgery…",
+          "description": "Our Son’s Unexpected Surgery…\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉  @royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 @RoyaltyGaming1 \n \nMore AMAZING Videos! 👇\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\ni SNUCK into an ONLY GIRLS School!\n👉 https://youtu.be/8XYpogDZdCI\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nOur Son’s Unexpected Surgery…\nhttps://youtu.be/oMYxqF2p1Fo\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j8ju9bBefyPKgOObnMjwInb45Rk",
+      "id": "esQ29yYzROY",
+      "snippet": {
+        "publishedAt": "2023-06-26T16:00:29Z",
+        "channelId": "UClvow1RFSyeh5CRwRB_m5sA",
+        "title": "The Champions: Season 7, Episode 1",
+        "description": "Change is in the air as football's ageing superstars are all getting a mysterious recruiting pitch 👴\n\nThe Champions is back!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/esQ29yYzROY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/esQ29yYzROY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/esQ29yYzROY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/esQ29yYzROY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/esQ29yYzROY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B/R Football",
+        "tags": [
+          "br football",
+          "bleacher report",
+          "soccer",
+          "football",
+          "goal",
+          "champions",
+          "champions league",
+          "epl",
+          "world cup",
+          "ronaldo",
+          "messi"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Champions: Season 7, Episode 1",
+          "description": "Change is in the air as football's ageing superstars are all getting a mysterious recruiting pitch 👴\n\nThe Champions is back!"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8y21zb4Stefn0aToBIeiMeQChaA",
+      "id": "wgjpo2lKt7I",
+      "snippet": {
+        "publishedAt": "2023-06-26T14:00:15Z",
+        "channelId": "UCV9RoEcgAO1Uc7oxZGS8Lkw",
+        "title": "Traffic AI I Feature Highlights #2 I Cities: Skylines II",
+        "description": "Why do the citizens of your city make the decisions they do and how does that affect traffic simulation? In today's Feature Highlights, we go over the improved Traffic AI. 🚗 \n\nPre-Order Cities: Skylines II NOW! https://www.paradoxinteractive.com/games/cities-skylines-ii/about\n\n----------------------------------------------------------------------\n\nBe sure to subscribe for more Cities: Skylines content! https://pdxint.at/Subscribe\n\nOfficial Channels\nhttps://forum.paradoxplaza.com/forum/index.php?forums/cities-skylines.859/\nhttps://www.facebook.com/CitiesSkylines\nhttps://www.twitter.com/CitiesSkylines\nhttps://www.instagram.com/CitiesSkylines\nhttps://www.discord.gg/CitiesSkylines\n\nCommunity Channels\nhttps://www.reddit.com/r/CitiesSkylines/\nhttps://steamcommunity.com/app/255710/workshop/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgjpo2lKt7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgjpo2lKt7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgjpo2lKt7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgjpo2lKt7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgjpo2lKt7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cities: Skylines",
+        "tags": [
+          "Cities Skylines",
+          "City Builder",
+          "Management",
+          "Sim",
+          "Simulation",
+          "Sim City",
+          "cities",
+          "transit",
+          "transportation",
+          "roads",
+          "trains",
+          "industry",
+          "industries",
+          "green cities",
+          "parklife",
+          "expansion",
+          "simulator",
+          "dlc",
+          "campus",
+          "after dark",
+          "snowfall",
+          "mass transit",
+          "urban planning",
+          "The Sims",
+          "Sims",
+          "paradox",
+          "paradox interactive",
+          "colossal order",
+          "traffic",
+          "simcity",
+          "City Skylines",
+          "City Sky Lines",
+          "Cities Sky Lines"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Traffic AI I Feature Highlights #2 I Cities: Skylines II",
+          "description": "Why do the citizens of your city make the decisions they do and how does that affect traffic simulation? In today's Feature Highlights, we go over the improved Traffic AI. 🚗 \n\nPre-Order Cities: Skylines II NOW! https://www.paradoxinteractive.com/games/cities-skylines-ii/about\n\n----------------------------------------------------------------------\n\nBe sure to subscribe for more Cities: Skylines content! https://pdxint.at/Subscribe\n\nOfficial Channels\nhttps://forum.paradoxplaza.com/forum/index.php?forums/cities-skylines.859/\nhttps://www.facebook.com/CitiesSkylines\nhttps://www.twitter.com/CitiesSkylines\nhttps://www.instagram.com/CitiesSkylines\nhttps://www.discord.gg/CitiesSkylines\n\nCommunity Channels\nhttps://www.reddit.com/r/CitiesSkylines/\nhttps://steamcommunity.com/app/255710/workshop/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0KxVRoFWP8aKbzuPQ-m8QyuzlDU",
+      "id": "mMJ3Gogi2Qk",
+      "snippet": {
+        "publishedAt": "2023-06-26T15:00:37Z",
+        "channelId": "UCEzDdNqNkT-7rSfSGSr1hWg",
+        "title": "Burna Boy - Sittin’ On Top Of The World (feat. 21 Savage) [Official Music Video]",
+        "description": "Burna Boy - Sittin’ On Top Of The World (feat. 21 Savage)\nStream/Download: https://Burna.lnk.to/TopOfTheWorld\n\nSubscribe for more official content from Burna Boy: https://Atlantic.lnk.to/BurnaBoySubscribe\n\nFollow Burna Boy\nWebsite : https://Burna.lnk.to/Official\nInstagram: https://Burna.lnk.to/Instagram\nTwitter: https://Burna.lnk.to/Twitter\nFacebook: https://Burna.lnk.to/Facebook \nTikTok: https://Burna.lnk.to/TikTok \nTriller: https://Burna.lnk.to/Triller\n\nListen to Burna Boy\nYouTube: https://Burna.lnk.to/YouTube\nSoundcloud: https://Burna.lnk.to/SoundCloud\nApple Music: https://Burna.lnk.to/Apple\nSpotify: https://Burna.lnk.to/Spotify\nDeezer: https://Burna.lnk.to/Deezer\nBoomplay: https://Burna.lnk.to/Boomplay\n\nThe official YouTube channel of Atlantic Records artist Burna Boy. Subscribe for the latest music videos, performances, and more.\n\n#BurnaBoy #21Savage #SOTOTW #TopOfTheWorld",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMJ3Gogi2Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMJ3Gogi2Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMJ3Gogi2Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mMJ3Gogi2Qk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mMJ3Gogi2Qk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Burna Boy",
+        "tags": [
+          "burna boy",
+          "burner boy",
+          "burnaboy",
+          "Damini Ogulu",
+          "Atlantic Records",
+          "reggae",
+          "reggae dancehall",
+          "Nigerian",
+          "Lagos",
+          "sekkle down",
+          "heaven's gate",
+          "nigerian music",
+          "ye song",
+          "ye ye",
+          "love damini",
+          "new albm",
+          "last last",
+          "burna",
+          "love",
+          "damini",
+          "afrobeats",
+          "21 Savage",
+          "Top Of The World",
+          "Sittin' On Top Of The World",
+          "SOTOTW"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Burna Boy - Sittin’ On Top Of The World (feat. 21 Savage) [Official Music Video]",
+          "description": "Burna Boy - Sittin’ On Top Of The World (feat. 21 Savage)\nStream/Download: https://Burna.lnk.to/TopOfTheWorld\n\nSubscribe for more official content from Burna Boy: https://Atlantic.lnk.to/BurnaBoySubscribe\n\nFollow Burna Boy\nWebsite : https://Burna.lnk.to/Official\nInstagram: https://Burna.lnk.to/Instagram\nTwitter: https://Burna.lnk.to/Twitter\nFacebook: https://Burna.lnk.to/Facebook \nTikTok: https://Burna.lnk.to/TikTok \nTriller: https://Burna.lnk.to/Triller\n\nListen to Burna Boy\nYouTube: https://Burna.lnk.to/YouTube\nSoundcloud: https://Burna.lnk.to/SoundCloud\nApple Music: https://Burna.lnk.to/Apple\nSpotify: https://Burna.lnk.to/Spotify\nDeezer: https://Burna.lnk.to/Deezer\nBoomplay: https://Burna.lnk.to/Boomplay\n\nThe official YouTube channel of Atlantic Records artist Burna Boy. Subscribe for the latest music videos, performances, and more.\n\n#BurnaBoy #21Savage #SOTOTW #TopOfTheWorld"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NX3nPU8aUWsmmq29b3jY-Hvx18E",
+      "id": "MM5hlOGPhkU",
+      "snippet": {
+        "publishedAt": "2023-06-26T13:51:22Z",
+        "channelId": "UCiPywDqO1dB34oxfEjjbQnw",
+        "title": "Iman Shumpert Breaks Down How To Guard Kobe Bryant, James Harden & Kyrie Irving... Or TRY To",
+        "description": "Iman Shumpert gives a masterclass on how to guard some of the best offensive players in the NBA, or at least how he TRIED to guard them. \"Average shooter\" JJ Reddick also caused Iman some difficulties 😂\n\nWatch “No Chill with Gilbert Arenas” every Sunday night at 7pm ET / PT on fubo Sports Network\n\nFollow fubo Sports Network:\nTWITTER: https://twitter.com/fuboSports\nINSTAGRAM: https://www.instagram.com/fubosports/\nTIKTOK: https://www.tiktok.com/@fubosports?\n\nFollow Gilbert Arenas:\nINSTAGRAM: https://www.instagram.com/no.chill.gil/\n\nFollow Josiah: \nTWITTER: https://twitter.com/KingJosiah54",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MM5hlOGPhkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MM5hlOGPhkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MM5hlOGPhkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MM5hlOGPhkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MM5hlOGPhkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "fubo Sports",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Iman Shumpert Breaks Down How To Guard Kobe Bryant, James Harden & Kyrie Irving... Or TRY To",
+          "description": "Iman Shumpert gives a masterclass on how to guard some of the best offensive players in the NBA, or at least how he TRIED to guard them. \"Average shooter\" JJ Reddick also caused Iman some difficulties 😂\n\nWatch “No Chill with Gilbert Arenas” every Sunday night at 7pm ET / PT on fubo Sports Network\n\nFollow fubo Sports Network:\nTWITTER: https://twitter.com/fuboSports\nINSTAGRAM: https://www.instagram.com/fubosports/\nTIKTOK: https://www.tiktok.com/@fubosports?\n\nFollow Gilbert Arenas:\nINSTAGRAM: https://www.instagram.com/no.chill.gil/\n\nFollow Josiah: \nTWITTER: https://twitter.com/KingJosiah54"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ImoSGckANzZa3SCEhXXt0YGML5c",
+      "id": "F6IV-HJddvs",
+      "snippet": {
+        "publishedAt": "2023-06-26T15:06:03Z",
+        "channelId": "UCQ8Nk1VgyMgM7Mx3sX8WhPw",
+        "title": "wonder",
+        "description": "she must be protected\n\n\n\nBGs done by Jackson:\nhttps://twitter.com/TVJacksonShow\n\nFollow and support me on:\n○ Patreon!\nhttps://www.patreon.com/PringusMcDingus\n○ Twitter!\nhttps://twitter.com/Armand_Gman\n○ Twitch!\nhttps://www.twitch.tv/pringus_mcdingus\n\nMusic used:\n\nNew Super Mario Bros Wii - Ground Theme\nComposed by: Shiho Fujii, Ryo Nagamatsu, Kenta Nagata\n\nSuper Mario RPG - In the Flower Garden\nComposed by: Yoko Shimomura\n\n#supermariobroswonder",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6IV-HJddvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6IV-HJddvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6IV-HJddvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6IV-HJddvs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6IV-HJddvs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pringus McDingus",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "wonder",
+          "description": "she must be protected\n\n\n\nBGs done by Jackson:\nhttps://twitter.com/TVJacksonShow\n\nFollow and support me on:\n○ Patreon!\nhttps://www.patreon.com/PringusMcDingus\n○ Twitter!\nhttps://twitter.com/Armand_Gman\n○ Twitch!\nhttps://www.twitch.tv/pringus_mcdingus\n\nMusic used:\n\nNew Super Mario Bros Wii - Ground Theme\nComposed by: Shiho Fujii, Ryo Nagamatsu, Kenta Nagata\n\nSuper Mario RPG - In the Flower Garden\nComposed by: Yoko Shimomura\n\n#supermariobroswonder"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "05l5pQWJRNWxtqoYuf2_ZANzQko",
+      "id": "MJhswARcfwI",
+      "snippet": {
+        "publishedAt": "2023-06-24T18:00:09Z",
+        "channelId": "UCZUl_haJHBu7KF6dU8iwC_g",
+        "title": "Yailin La Mas Viral - Narcisista (Video Oficial)",
+        "description": "Yailin La Más Viral - Narcisista (Video Oficial)\nEscúchala en tu plataforma favorita: https://vyd.co/Narcisista\n\nSuscríbete al canal: https://ilmlink.io/ylmvyt\n\nLETRA\n\nAhora no vengas con tu carita de yo no fui\nCuando te necesité nunca estuviste ahí\nNo merecías ni la mitad de lo que yo te di\nQuisiste parar mi camino pero yo seguí\n\nCien copas bebí, tus fotos ya borré\nUn muchachito de la mente, ya yo maduré\nPor eso me alejé y de ti yo me quité\nPor eso me alejé y de ti yo me quité (oh-oh-oh)\n\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista (-nista)\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista, -nista\n\nTuve que cerrar el telón por tu falsa actuación\nTeníamos un amor de redes y televisión\nYa yo no quiero intentar arreglar la situación\nNo quise seguir peleando y te di la razón\n\nMi amiga me decía, mejor que te perdiera\nUna serpiente envenenó mi corazón de ceda\nLe apodan la moneda, tiene poco valor\nSacaste tu doble cara en el momento peor\n\nMás fueron las mentiras que tú me dijiste\nQue muestras de amor\nNo lo voy a negar, sé que me fue muy mal\nPero te va a ir peor\n\nLlora\nAhora prefiero estar sola\nEl karma te va a devolver pa'trá'\nReal Hasta La Muerte y te volviste na'\nTe volviste na' (oh)\n\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista (-nista)\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista, -nista\n\nLlora\nAhora prefiero estar sola\nEl karma te va a devolver pa'trá'\nReal Hasta La Muerte y te volviste na'\nTe volviste na'\n\nSígueme en:\nInstagram | https://instagram.com/yailinlamasviralreal\nTikTok | https://www.tiktok.com/@yailinlamasviraloficial_\nFacebook | https://facebook.com/yailinlamasviral\nTwitter | https://twitter.com/yailinlamasviral\n\nProduced by: ​⁠​⁠​⁠​⁠@EmyLuziano & ​Gaston\nWritten by: Jorgina Guillermo Díaz “Yailin La Más Viral” Arlene Yacaira Mota “Arlene Mc”, Jesús Maria Antonio Rivera Durán “Jesús Brillo”, Jeremys Alberto Luciano “Emy Luziano” Jonatan Rene Mejía Cepeda “Gaston” y Martha Heredia\nVocal Recording: Ángel Alfredo Rasuk “Mundito High Class” y Jeremys Alberto Luciano “Emy Luziano”\nGuitars by: Braulio Rodríguez Díaz y Kelvin Cabrera Luna \nAssistant: Eduard López Jiménez “Mr Jham”\nAudio Engineer: Jeremys Alberto Luciano “Emy Luziano” y Eduard López Jiménez “Mr Jham”\n\n#YailinLaMasViral #Narcisista\n\n© 2023 Iris Live Music, LLC / Equity Distribution",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJhswARcfwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJhswARcfwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJhswARcfwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJhswARcfwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MJhswARcfwI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yailin La Mas Viral",
+        "tags": [
+          "yailin la mas viral",
+          "Yailin La Mas Viral Narcisista",
+          "Yailin Narcisista",
+          "Narcisista Video Oficial",
+          "Yailin le responde a Anuel",
+          "Anuel y Yailin",
+          "Yailin y 6ix9ine",
+          "Narcisista Bachata",
+          "Yailin",
+          "Rodrigo Films",
+          "Emy Luziano",
+          "Iris Live Music",
+          "Equity Distribution"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Yailin La Mas Viral - Narcisista (Video Oficial)",
+          "description": "Yailin La Más Viral - Narcisista (Video Oficial)\nEscúchala en tu plataforma favorita: https://vyd.co/Narcisista\n\nSuscríbete al canal: https://ilmlink.io/ylmvyt\n\nLETRA\n\nAhora no vengas con tu carita de yo no fui\nCuando te necesité nunca estuviste ahí\nNo merecías ni la mitad de lo que yo te di\nQuisiste parar mi camino pero yo seguí\n\nCien copas bebí, tus fotos ya borré\nUn muchachito de la mente, ya yo maduré\nPor eso me alejé y de ti yo me quité\nPor eso me alejé y de ti yo me quité (oh-oh-oh)\n\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista (-nista)\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista, -nista\n\nTuve que cerrar el telón por tu falsa actuación\nTeníamos un amor de redes y televisión\nYa yo no quiero intentar arreglar la situación\nNo quise seguir peleando y te di la razón\n\nMi amiga me decía, mejor que te perdiera\nUna serpiente envenenó mi corazón de ceda\nLe apodan la moneda, tiene poco valor\nSacaste tu doble cara en el momento peor\n\nMás fueron las mentiras que tú me dijiste\nQue muestras de amor\nNo lo voy a negar, sé que me fue muy mal\nPero te va a ir peor\n\nLlora\nAhora prefiero estar sola\nEl karma te va a devolver pa'trá'\nReal Hasta La Muerte y te volviste na'\nTe volviste na' (oh)\n\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista (-nista)\nEgoísta, mentiroso, narcisista\nQue ya no 'toy en ti no insistas\nEn mi película no eres protagonista, -nista\n\nLlora\nAhora prefiero estar sola\nEl karma te va a devolver pa'trá'\nReal Hasta La Muerte y te volviste na'\nTe volviste na'\n\nSígueme en:\nInstagram | https://instagram.com/yailinlamasviralreal\nTikTok | https://www.tiktok.com/@yailinlamasviraloficial_\nFacebook | https://facebook.com/yailinlamasviral\nTwitter | https://twitter.com/yailinlamasviral\n\nProduced by: ​⁠​⁠​⁠​⁠@EmyLuziano & ​Gaston\nWritten by: Jorgina Guillermo Díaz “Yailin La Más Viral” Arlene Yacaira Mota “Arlene Mc”, Jesús Maria Antonio Rivera Durán “Jesús Brillo”, Jeremys Alberto Luciano “Emy Luziano” Jonatan Rene Mejía Cepeda “Gaston” y Martha Heredia\nVocal Recording: Ángel Alfredo Rasuk “Mundito High Class” y Jeremys Alberto Luciano “Emy Luziano”\nGuitars by: Braulio Rodríguez Díaz y Kelvin Cabrera Luna \nAssistant: Eduard López Jiménez “Mr Jham”\nAudio Engineer: Jeremys Alberto Luciano “Emy Luziano” y Eduard López Jiménez “Mr Jham”\n\n#YailinLaMasViral #Narcisista\n\n© 2023 Iris Live Music, LLC / Equity Distribution"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T1q1QHE-m4k34iAFogY5vhzyCDE",
+      "id": "vSk9mFXSyDo",
+      "snippet": {
+        "publishedAt": "2023-06-26T03:07:10Z",
+        "channelId": "UCiKGMZZmZXK-RpbKJGXgH3Q",
+        "title": "Patti LaBelle's Tribute To Tina Turner At 2023 BET Awards",
+        "description": "Patti Labelle is honoring her late friend. The singer paid tribute to Tina Turner at the 2023 BET Awards on Sunday night with a special rendition of the music icon's hit song \"The Best.\" Patti fumbled a few times with the lyrics, but delivered a powerful ending. Tina died last month at the age of 83 at her home in Switzerland.\n\n» SUBSCRIBE: https://bit.ly/41Rq6s6\n» Visit Our Website: http://accessonline.com\n\nGet More Access :\nFacebook: https://www.facebook.com/accesshollywood/\nTwitter: https://twitter.com/accesshollywood\nInstagram: https://www.instagram.com/accesshollywood/\n\nAbout Access Hollywood:\nAccess Hollywood is a nationally syndicated daily entertainment news show. Access Hollywood delivers the most comprehensive coverage of entertainment news and personalities on television, featuring in-depth celebrity interviews and behind-the-scenes accounts of the most important events in Hollywood.\n\nPatti LaBelle's Tribute To Tina Turner At 2023 BET Awards\nhttps://www.youtube.com/AccessOnline\n\n#AccessHollywood \n#BETAwards\n#TinaTurner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vSk9mFXSyDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vSk9mFXSyDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vSk9mFXSyDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vSk9mFXSyDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vSk9mFXSyDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Access Hollywood",
+        "tags": [
+          "patti labelle",
+          "patti labelle news",
+          "patti labelle bet awards",
+          "bet awards",
+          "bet awards news",
+          "tina turner",
+          "tina turner death",
+          "Celebrity News",
+          "Celebrity Entertainment",
+          "Celebrity Entertainment News",
+          "Newest Celebrity News",
+          "Celebrity Interviews",
+          "Entertainment News",
+          "Entertainment",
+          "Recent News",
+          "Social Media News",
+          "Social Media Posts",
+          "Celebrity Scandals",
+          "Access Hollywood News",
+          "Access Hollywood Celebrity News",
+          "Access Hollywood Newest News",
+          "Access Hollywood Entertainment"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Patti LaBelle's Tribute To Tina Turner At 2023 BET Awards",
+          "description": "Patti Labelle is honoring her late friend. The singer paid tribute to Tina Turner at the 2023 BET Awards on Sunday night with a special rendition of the music icon's hit song \"The Best.\" Patti fumbled a few times with the lyrics, but delivered a powerful ending. Tina died last month at the age of 83 at her home in Switzerland.\n\n» SUBSCRIBE: https://bit.ly/41Rq6s6\n» Visit Our Website: http://accessonline.com\n\nGet More Access :\nFacebook: https://www.facebook.com/accesshollywood/\nTwitter: https://twitter.com/accesshollywood\nInstagram: https://www.instagram.com/accesshollywood/\n\nAbout Access Hollywood:\nAccess Hollywood is a nationally syndicated daily entertainment news show. Access Hollywood delivers the most comprehensive coverage of entertainment news and personalities on television, featuring in-depth celebrity interviews and behind-the-scenes accounts of the most important events in Hollywood.\n\nPatti LaBelle's Tribute To Tina Turner At 2023 BET Awards\nhttps://www.youtube.com/AccessOnline\n\n#AccessHollywood \n#BETAwards\n#TinaTurner"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ifg9g64pUaz7em6UIVtma5e_2oY",
+      "id": "S7VMbPlSqrk",
+      "snippet": {
+        "publishedAt": "2023-06-26T03:40:30Z",
+        "channelId": "UCBaHYWh_265k73PxkgaNkrA",
+        "title": "Only UP Speedrun in 20:46 (World Record) 🇺🇲",
+        "description": "I had to manual split at end time, so its probably a lil faster than splits show. Finally got a decent run feelsgoodman Will try to go for atleast sub 20:40, honestly with some fine tuning on strats can probably go sub 20:30  -- Watch live at https://www.twitch.tv/distortion2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S7VMbPlSqrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S7VMbPlSqrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S7VMbPlSqrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S7VMbPlSqrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S7VMbPlSqrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Distortion2",
+        "tags": [
+          "games",
+          "twitch",
+          "only",
+          "up",
+          "speedrun",
+          "world",
+          "record",
+          "distortion2"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Only UP Speedrun in 20:46 (World Record) 🇺🇲",
+          "description": "I had to manual split at end time, so its probably a lil faster than splits show. Finally got a decent run feelsgoodman Will try to go for atleast sub 20:40, honestly with some fine tuning on strats can probably go sub 20:30  -- Watch live at https://www.twitch.tv/distortion2"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0k25njKAmEQbXRdwA1PYmCjyJ4w",
+      "id": "1etmrOYWjvY",
+      "snippet": {
+        "publishedAt": "2023-06-25T15:00:03Z",
+        "channelId": "UC4laAHbk8VSgmvB47tsd2XQ",
+        "title": "We're Having a Baby!",
+        "description": "WE'RE HAVING A BABY!!! 🥺❤️ AHHHHH! After a couple of very tough years, we couldn't be more thrilled to be sharing GOOD NEWS with all of you! \nTo celebrate our pregnancy, we wanted to offer you something special from our first baby... our new tea company Habit. Buy 2 Get 1 Free using the code 'bundleofjoy' at https://drinkhabit.com/ But don't miss out - it's only good for the next 48 hours: \nCome get tea worth talking over - we have chai, matcha, herbal blends, earl grey, and much more.\n\nThis video is all about finding out we're pregnant and telling our friends and family. As well, we have had a tumultuous first couple of months with an unforeseen health scare. We feel incredibly grateful to be on the other side of the first trimester. Bec is officially 14 weeks pregnant!!\n\n0:00 Finding out we're pregnant\n5:48 Why we're stressed about baby\n9:05 Telling our families\n10:08 Pregnancy cravings 🤪\n13:35 Cancer followup\n17:45 NO CANCER FOUND!!!\n18:10 Telling friends we're pregnant!\n20:15 Our first baby \n23:08  9-week ultrasound\n30:10 13 weeks nothing fits🙈\n32:22 seeing baby ❤️\n33:31 telling friends \n\n#pregnancy #eamonandbec #havingababy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1etmrOYWjvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1etmrOYWjvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1etmrOYWjvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1etmrOYWjvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1etmrOYWjvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eamon & Bec",
+        "tags": [
+          "eamon and bec",
+          "emon and bec",
+          "bec and eamon",
+          "finding out you're pregnant",
+          "telling family were pregnant",
+          "telling family and friends we're pregnant",
+          "telling family i'm pregnant",
+          "eamon and bec baby",
+          "we're having a baby",
+          "we're pregnant"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "We're Having a Baby!",
+          "description": "WE'RE HAVING A BABY!!! 🥺❤️ AHHHHH! After a couple of very tough years, we couldn't be more thrilled to be sharing GOOD NEWS with all of you! \nTo celebrate our pregnancy, we wanted to offer you something special from our first baby... our new tea company Habit. Buy 2 Get 1 Free using the code 'bundleofjoy' at https://drinkhabit.com/ But don't miss out - it's only good for the next 48 hours: \nCome get tea worth talking over - we have chai, matcha, herbal blends, earl grey, and much more.\n\nThis video is all about finding out we're pregnant and telling our friends and family. As well, we have had a tumultuous first couple of months with an unforeseen health scare. We feel incredibly grateful to be on the other side of the first trimester. Bec is officially 14 weeks pregnant!!\n\n0:00 Finding out we're pregnant\n5:48 Why we're stressed about baby\n9:05 Telling our families\n10:08 Pregnancy cravings 🤪\n13:35 Cancer followup\n17:45 NO CANCER FOUND!!!\n18:10 Telling friends we're pregnant!\n20:15 Our first baby \n23:08  9-week ultrasound\n30:10 13 weeks nothing fits🙈\n32:22 seeing baby ❤️\n33:31 telling friends \n\n#pregnancy #eamonandbec #havingababy"
+        },
+        "defaultAudioLanguage": "en-CA"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wweqtvghaLMs_ojogxJC1G7u0nQ",
+      "id": "P7wmuF228zw",
+      "snippet": {
+        "publishedAt": "2023-06-25T14:00:11Z",
+        "channelId": "UCJ896dajAilqJp_zcENm31Q",
+        "title": "I Created SKIDI TOILET BROOKHAVEN!",
+        "description": "I Created SKIBIDI TOILET BROOKHAVEN! Roblox Brookhaven🏡RP!\nI Created SKIDI TOILET BROOKHAVEN!\nRoblox is the best video game lol. I love Roblox and this is a Roblox Video.\n\n👉👉JOIN THE DISCORD: https://discord.gg/bm6A4yA\n👉👉👉 MERCH: https://cleansebeam.store/\n▶ Twitter - https://twitter.com/Cleansebeam\n▶ Instagram - https://www.instagram.com/Cleansebeam\n▶ Roblox Group: https://bit.ly/2BEns2a\n💌Business Inquiries: cleansebeam@moreyellow.com\nUsing my Roblox starcode \"CLEAN\" directly supports me\nYouTubers such as Flamingo, LankyBox, DigitoSim, KreekCraft, Calixo, OKEH Squad, IBella, Peter Roblox and Pop Cat Roblox are my favorite people who upload videos. Who's your favorite YouTuber?\n#Roblox #Brookhaven #BrookhavenRP",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P7wmuF228zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P7wmuF228zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P7wmuF228zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P7wmuF228zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P7wmuF228zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cleanse Beam",
+        "tags": ["Cleanse Beam"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "I Created SKIDI TOILET BROOKHAVEN!",
+          "description": "I Created SKIBIDI TOILET BROOKHAVEN! Roblox Brookhaven🏡RP!\nI Created SKIDI TOILET BROOKHAVEN!\nRoblox is the best video game lol. I love Roblox and this is a Roblox Video.\n\n👉👉JOIN THE DISCORD: https://discord.gg/bm6A4yA\n👉👉👉 MERCH: https://cleansebeam.store/\n▶ Twitter - https://twitter.com/Cleansebeam\n▶ Instagram - https://www.instagram.com/Cleansebeam\n▶ Roblox Group: https://bit.ly/2BEns2a\n💌Business Inquiries: cleansebeam@moreyellow.com\nUsing my Roblox starcode \"CLEAN\" directly supports me\nYouTubers such as Flamingo, LankyBox, DigitoSim, KreekCraft, Calixo, OKEH Squad, IBella, Peter Roblox and Pop Cat Roblox are my favorite people who upload videos. Who's your favorite YouTuber?\n#Roblox #Brookhaven #BrookhavenRP"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3WWgP-JjZbjLiBOIXhIk9aibNjI",
+      "id": "GusUQlZXNyI",
+      "snippet": {
+        "publishedAt": "2023-06-24T17:00:07Z",
+        "channelId": "UCYJPby9DRCteedh5tfxVbrw",
+        "title": "Unexpected Reunions (w/ Anthony Padilla) | Reading Reddit Stories",
+        "description": "Anthony is here for story time!\n\n0:00-1:28 Intro\n1:29-7:45 AITA for trying to reconnect with my bff https://www.reddit.com/r/AmITheDevil/comments/133i7cg/aita_for_trying_to_reconnect_with_my_childhood/\n7:46-16:30 I hosted an alt reception for my daughter's wedding https://www.reddit.com/r/AmITheDevil/comments/10m8hq5/really_wtf/\n16:31-26:31 IDGAF about your bf's allergies https://www.reddit.com/r/AmItheAsshole/comments/12dqx11/aita_for_telling_my_roommate_that_i_dont_give_a/\n26:32-33:08 I wouldn't let camel spit in my apartment https://www.reddit.com/r/AmItheAsshole/comments/14368d8/aita_for_not_letting_my_apartmentmate_21f_back/\n33:09-41:38 \"What's for dinner tonight bitch\" https://www.reddit.com/r/AmItheAsshole/comments/xbn2n0/aita_for_dropping_our_dinner_on_the_ground_and/\n41:39-49:02 Why didn't you love me?! https://www.reddit.com/r/AmITheDevil/comments/143v4ca/aitb_for_confronting_him_on_why_he_never_loved_me/\n49:03-54:50 I took my sis to see Garth Brooks https://www.reddit.com/r/AmItheAsshole/comments/144u0s6/aita_for_taking_my_sisters_and_their_husbands_to/\n54:51-1:10:13 My boss is secretly filming me https://www.reddit.com/r/TrueOffMyChest/comments/13x3gr7/i_dont_think_my_boss_knows_that_i_know_theres_a/\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshPit\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nIan Hecox // https://www.instagram.com/ianhecox/\nAnthony Padilla // https://www.instagram.com/anthonypadilla/\nShayne Topp // https://www.instagram.com/shaynetopp/\n\nWHO YOU DON’T SEE (usually)\nDirector: Kiana Parker\nEditor: Kevin Plachy\nDirector Of Programming, Smosh Pit: Kiana Parker\nPit - AP: Kimmy Jimenez\nAD: Jacqi Jones\nArt Director: Cassie Vance\nArt - Asst Dir.: Erin Kuschner\nArt Coord.: Alex Aguilar\nAudio Mixer: David Alvarez\nCamera Operator: Vida Robbins\nContent Manager: Lizzy Jones\nDir. Audience Dev & Distro: Rachel Evans\nDIT/AE: Matt Duran\nDir. Of Photography: Brennan Iketani\nGFX: Brittany Hobbs\nPost Manager: Luke Baker\nProduction Coord: Heidi Ha\nProduction Asst: Marcus Munguia\nProduction Manager: Jacqi Jones\nSr. Dir. Of Production: Zoe Moacanin\nTalent Coord: Selina Garcia\nWardrobe Supervisor: Alicia Balderas\n\nNEW SMOSH:\nWatch Ian & Anthony Play 2 Truths 1 Lie: https://youtu.be/043CQXHfx10\nWatch Spicy Chicken, Spicier Truths (Hot Ones: Truth or Dab): \n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh\nTwitter: https://twitter.com/smosh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GusUQlZXNyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GusUQlZXNyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GusUQlZXNyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GusUQlZXNyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GusUQlZXNyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Smosh Pit",
+        "tags": [
+          "smosh",
+          "smosh pit",
+          "smosh games",
+          "funny",
+          "comedy",
+          "smoosh"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Unexpected Reunions (w/ Anthony Padilla) | Reading Reddit Stories",
+          "description": "Anthony is here for story time!\n\n0:00-1:28 Intro\n1:29-7:45 AITA for trying to reconnect with my bff https://www.reddit.com/r/AmITheDevil/comments/133i7cg/aita_for_trying_to_reconnect_with_my_childhood/\n7:46-16:30 I hosted an alt reception for my daughter's wedding https://www.reddit.com/r/AmITheDevil/comments/10m8hq5/really_wtf/\n16:31-26:31 IDGAF about your bf's allergies https://www.reddit.com/r/AmItheAsshole/comments/12dqx11/aita_for_telling_my_roommate_that_i_dont_give_a/\n26:32-33:08 I wouldn't let camel spit in my apartment https://www.reddit.com/r/AmItheAsshole/comments/14368d8/aita_for_not_letting_my_apartmentmate_21f_back/\n33:09-41:38 \"What's for dinner tonight bitch\" https://www.reddit.com/r/AmItheAsshole/comments/xbn2n0/aita_for_dropping_our_dinner_on_the_ground_and/\n41:39-49:02 Why didn't you love me?! https://www.reddit.com/r/AmITheDevil/comments/143v4ca/aitb_for_confronting_him_on_why_he_never_loved_me/\n49:03-54:50 I took my sis to see Garth Brooks https://www.reddit.com/r/AmItheAsshole/comments/144u0s6/aita_for_taking_my_sisters_and_their_husbands_to/\n54:51-1:10:13 My boss is secretly filming me https://www.reddit.com/r/TrueOffMyChest/comments/13x3gr7/i_dont_think_my_boss_knows_that_i_know_theres_a/\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshPit\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nIan Hecox // https://www.instagram.com/ianhecox/\nAnthony Padilla // https://www.instagram.com/anthonypadilla/\nShayne Topp // https://www.instagram.com/shaynetopp/\n\nWHO YOU DON’T SEE (usually)\nDirector: Kiana Parker\nEditor: Kevin Plachy\nDirector Of Programming, Smosh Pit: Kiana Parker\nPit - AP: Kimmy Jimenez\nAD: Jacqi Jones\nArt Director: Cassie Vance\nArt - Asst Dir.: Erin Kuschner\nArt Coord.: Alex Aguilar\nAudio Mixer: David Alvarez\nCamera Operator: Vida Robbins\nContent Manager: Lizzy Jones\nDir. Audience Dev & Distro: Rachel Evans\nDIT/AE: Matt Duran\nDir. Of Photography: Brennan Iketani\nGFX: Brittany Hobbs\nPost Manager: Luke Baker\nProduction Coord: Heidi Ha\nProduction Asst: Marcus Munguia\nProduction Manager: Jacqi Jones\nSr. Dir. Of Production: Zoe Moacanin\nTalent Coord: Selina Garcia\nWardrobe Supervisor: Alicia Balderas\n\nNEW SMOSH:\nWatch Ian & Anthony Play 2 Truths 1 Lie: https://youtu.be/043CQXHfx10\nWatch Spicy Chicken, Spicier Truths (Hot Ones: Truth or Dab): \n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh\nTwitter: https://twitter.com/smosh"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OY6_SBb5t3aPFqrhPX_Sf9-BXLE",
+      "id": "maCHHSussS4",
+      "snippet": {
+        "publishedAt": "2023-06-25T23:45:01Z",
+        "channelId": "UC3ltptWa0xfrDweghW94Acg",
+        "title": "The Biggest Scandal In Speed Typing History",
+        "description": "Install Raid for Free ✅ IOS/ANDROID/PC: https://clcr.me/KarlJobst_Jun23 and get a special starter pack with an Epic champion ⚡️Tallia⚡️ Available only for new players\n\nBarbara Blackburn is often cited as the fastest typist in history. She even appears in the Guinness Book of World Records! She must be legit right? Well, maybe not. I was supposed to make a video about the new typing speed world record, and instead got pulled into a Barbara Blackburn rabbit hole that I can't seem to escape. TL;DR She's not that fast.\n\nPlease follow me on these platforms, it really helps!\n\nPatreon: http://patreon.com/karljobst\nTwitter: https://twitter.com/karljobstgaming\nTwitch: https://twitch.tv/karljobst\nDiscord: https://discord.gg/EjDRvg7",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maCHHSussS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maCHHSussS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maCHHSussS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/maCHHSussS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/maCHHSussS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karl Jobst",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Biggest Scandal In Speed Typing History",
+          "description": "Install Raid for Free ✅ IOS/ANDROID/PC: https://clcr.me/KarlJobst_Jun23 and get a special starter pack with an Epic champion ⚡️Tallia⚡️ Available only for new players\n\nBarbara Blackburn is often cited as the fastest typist in history. She even appears in the Guinness Book of World Records! She must be legit right? Well, maybe not. I was supposed to make a video about the new typing speed world record, and instead got pulled into a Barbara Blackburn rabbit hole that I can't seem to escape. TL;DR She's not that fast.\n\nPlease follow me on these platforms, it really helps!\n\nPatreon: http://patreon.com/karljobst\nTwitter: https://twitter.com/karljobstgaming\nTwitch: https://twitch.tv/karljobst\nDiscord: https://discord.gg/EjDRvg7"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "990H29SpyHVMG-EMAbYDoxKuxqM",
+      "id": "kt96dkHpIYk",
+      "snippet": {
+        "publishedAt": "2023-06-26T03:29:59Z",
+        "channelId": "UCmWyesNAlftV3kJlFhD6q6w",
+        "title": "The Walking Dead: Daryl Dixon First Look | The Walking Dead Universe",
+        "description": "Stranger in a strange land! Daryl (Norman Reedus) finds himself stranded in France, will he be able to find his way back home?\n\n#TheWalkingDead: #DarylDixon premieres this fall on AMC and AMC+\n\n#TheWalkingDead #AMCPlus #AMC \n\nTHE WALKING DEAD:\nFacebook: https://www.facebook.com/TheWalkingDeadAMC/ \nTwitter: https://twitter.com/WalkingDead_AMC\nThe Walking Dead Official Site: https://www.amc.com/twdu/the-walking-dead\n \nAMC+ ON SOCIAL\nFacebook : https://www.facebook.com/TheGoodStuff... \nTwitter :https://twitter.com/amcplus \nInstagram: https://www.instagram.com/amcplus/ \nTik Tok: https://www.tiktok.com/@amcplus\n\nABOUT THE WALKING DEAD\nThe eleventh and final season of The Walking Dead, an American post-apocalyptic horror television series on AMC, premiered on August 22, 2021, and will conclude on November 20, 2022, consisting of 24 episodes.[1] Developed for television by Frank Darabont, the series is based on the eponymous series of comic books by Robert Kirkman, Tony Moore, and Charlie Adlard. The executive producers are Kirkman, David Alpert, Scott M. Gimple, Angela Kang, Greg Nicotero, Joseph Incaprera, Denise Huth, and Gale Anne Hurd, with Kang as showrunner for her third and final season.\n\nThe Walking Dead: Daryl Dixon | First Look In Dead City﻿\n\nThe Walking Dead\nhttps://www.youtube.com/channel/UCmWyesNAlftV3kJlFhD6q6w",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kt96dkHpIYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kt96dkHpIYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kt96dkHpIYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kt96dkHpIYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kt96dkHpIYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Walking Dead",
+        "tags": [
+          "The Walking Dead: Daryl Dixon",
+          "The Walking Dead Universe series",
+          "daryl dixon trailer",
+          "daryl dixon tribute",
+          "daryl dixon spin off",
+          "daryl dixon scenes",
+          "daryl dixon funny moments",
+          "daryl dixon best moments",
+          "daryl dixon badass moments",
+          "daryl dixon 2023",
+          "daryl dixon tv",
+          "norman reddus",
+          "norman reedus interview",
+          "norman reedus funny moments",
+          "norman reedus",
+          "norman reedus the walking dead",
+          "norman reedus the walking dead 2023",
+          "daryl dixon norman reedus",
+          "reedus norman"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Walking Dead: Daryl Dixon First Look | The Walking Dead Universe",
+          "description": "Stranger in a strange land! Daryl (Norman Reedus) finds himself stranded in France, will he be able to find his way back home?\n\n#TheWalkingDead: #DarylDixon premieres this fall on AMC and AMC+\n\n#TheWalkingDead #AMCPlus #AMC \n\nTHE WALKING DEAD:\nFacebook: https://www.facebook.com/TheWalkingDeadAMC/ \nTwitter: https://twitter.com/WalkingDead_AMC\nThe Walking Dead Official Site: https://www.amc.com/twdu/the-walking-dead\n \nAMC+ ON SOCIAL\nFacebook : https://www.facebook.com/TheGoodStuff... \nTwitter :https://twitter.com/amcplus \nInstagram: https://www.instagram.com/amcplus/ \nTik Tok: https://www.tiktok.com/@amcplus\n\nABOUT THE WALKING DEAD\nThe eleventh and final season of The Walking Dead, an American post-apocalyptic horror television series on AMC, premiered on August 22, 2021, and will conclude on November 20, 2022, consisting of 24 episodes.[1] Developed for television by Frank Darabont, the series is based on the eponymous series of comic books by Robert Kirkman, Tony Moore, and Charlie Adlard. The executive producers are Kirkman, David Alpert, Scott M. Gimple, Angela Kang, Greg Nicotero, Joseph Incaprera, Denise Huth, and Gale Anne Hurd, with Kang as showrunner for her third and final season.\n\nThe Walking Dead: Daryl Dixon | First Look In Dead City﻿\n\nThe Walking Dead\nhttps://www.youtube.com/channel/UCmWyesNAlftV3kJlFhD6q6w"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2UlqwsIOxrbt28A3nBSHm_IHsp4",
+      "id": "hpK16l6fDsg",
+      "snippet": {
+        "publishedAt": "2023-06-24T21:04:51Z",
+        "channelId": "UC4jjDHIjC-U4I6XdbyIZoTg",
+        "title": "Rylo Rodriguez - \"Thang for you\" ft. NoCap (Official Music Video)",
+        "description": "Rylo Rodriguez - \"Thang for you\" ft. NoCap - Official Music Video\nListen to the 'Thang for you' Single: https://rylorodriguez.lnk.to/thangforyou\nPre-Save 'Been One' Album: https://rylorodriguez.lnk.to/beenone\nFollow Rylo Rodriguez on IG: https://www.instagram.com/rylorodriguez\nFollow Rylo Rodriguez on Twitter: https://twitter.com/RyloRodriguez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hpK16l6fDsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hpK16l6fDsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hpK16l6fDsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hpK16l6fDsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hpK16l6fDsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rylo Rodriguez",
+        "tags": [
+          "rylo",
+          "rylo rodriguez",
+          "thang for you",
+          "nocap",
+          "rylo nocap",
+          "4pf",
+          "4 pockets full",
+          "rylo lil baby",
+          "lil baby",
+          "rylo been one",
+          "been one",
+          "rylo new music"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rylo Rodriguez - \"Thang for you\" ft. NoCap (Official Music Video)",
+          "description": "Rylo Rodriguez - \"Thang for you\" ft. NoCap - Official Music Video\nListen to the 'Thang for you' Single: https://rylorodriguez.lnk.to/thangforyou\nPre-Save 'Been One' Album: https://rylorodriguez.lnk.to/beenone\nFollow Rylo Rodriguez on IG: https://www.instagram.com/rylorodriguez\nFollow Rylo Rodriguez on Twitter: https://twitter.com/RyloRodriguez"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nlKZN5svpuylpyARxaU63MM_aWQ",
+      "id": "rqwIny0ahE8",
+      "snippet": {
+        "publishedAt": "2023-06-25T00:30:08Z",
+        "channelId": "UCE86oyLVAcsSkRAEWVtDUlA",
+        "title": "Jim Jones - Summer Collection | From The Block Performance 🎙(New York)",
+        "description": "Lock in w/ #4SO 🎯: https://linktr.ee/4softb\nInstagram: https://www.instagram.com/4shootersonly/\nMerch: https://shop4so.com/ \nEmail: book4shootersonly@gmail.com\n\n #4SO #FromTheBlock",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rqwIny0ahE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rqwIny0ahE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rqwIny0ahE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rqwIny0ahE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rqwIny0ahE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "4 Shooters Only",
+        "tags": [
+          "Million Subscribers",
+          "a zae production",
+          "rap",
+          "hiphop",
+          "lil durk",
+          "chief keef",
+          "g herbo",
+          "montana of 300",
+          "youtube",
+          "Gold play button",
+          "videogrpaher",
+          "canon",
+          "sony",
+          "redcamera",
+          "nikon",
+          "50mm",
+          "nanlite",
+          "Pusha T"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jim Jones - Summer Collection | From The Block Performance 🎙(New York)",
+          "description": "Lock in w/ #4SO 🎯: https://linktr.ee/4softb\nInstagram: https://www.instagram.com/4shootersonly/\nMerch: https://shop4so.com/ \nEmail: book4shootersonly@gmail.com\n\n #4SO #FromTheBlock"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7LS2zGYOp2IsP1a6bBP5bPYIS3w",
+      "id": "bA6-VEVAzCE",
+      "snippet": {
+        "publishedAt": "2023-06-24T22:14:53Z",
+        "channelId": "UCbAwSkqJ1W_Eg7wr3cp5BUA",
+        "title": "I Ran A Chocolate Factory For A Day",
+        "description": "HELLO FRIENDS!! I’ve always dreamed of having an opportunity to enter my Willy Wonka era, and now it’s finally here. I was ~somehow~ entrusted to take over the Escazu Chocolate factory in Raleigh, NC for a day, and you can definitely say I made the most of it. We followed the entire chocolate-making process - from bean to bar - and made two different custom chocolate creations together - a beautiful ombre bar & a marbled galaxy chocolate confection! What do you guys think of our final products? Do I have a future as a chocolate maker? \n\nIf you would like to enter the chocolate bar giveaway to win one of these cute lil guys, the Google Form is right here: https://forms.gle/FFrzputGQZ1LRyeL8\n\n(Please note that we are unable to send chocolate internationally or to P.O. boxes for this giveaway. Also, due to the ~temperamental~ nature of the chocolate, we will be sending the chocolate out in the early Fall to avoid any melting catastrophes!)\n\nAnd a big thank you goes out to the amazing team at Escazu for helping us out with this video; make sure to check out our creations on their website here - available for purchase!: https://www.escazuchocolates.com/shop-now/-c151145256\n\nYou can also find the chocolate in person at their store in Raleigh here: 936 N Blount St, Raleigh, NC 27604 \n\n(this video is NOT sponsored and we are not receiving any portion of Escazu’s sales - they are just a cool small business we love!)\n\nCheck out our merch shop here!! https://fiendishbehavior.com\n\nMy Instagram: https://www.instagram.com/safiyany/​\nMy TikTok: https://www.tiktok.com/@safiyany?\nTyler's channel: https://www.youtube.com/channel/UCc6BTuuTzfMLKj_RgwuDnQw\nOur YouTube Shorts channel: https://www.youtube.com/channel/UCLKQoTgt5BwFJJKWyeXHbig\n\nMUSIC\nVia AudioNetwork\n\nPRODUCED & EDITED by\nSafiya Nygaard\nTyler Williams\nCarey Fiock\nMelissa Douglas\nAndrew Lainhart\nPhil Kinney\nBree von Bradsky\nIshara Mathews\nMyia Lambe\nHailey Cox\nAlaina Simmons \n\nGFX by Dayana Espinoza\n\nCHAPTERS: \n0:00 Intro\n1:53 Welcome to The Factory!\n3:46 Bean Sorting\n6:22 Bean Roasting\n7:41 Bean Winnowing (Smashing)\n10:17 Bean Grinding \n12:23 Designing Our Bars\n15:05 Tempering Our Chocolate\n16:24 Flavoring Our Bars \n18:31 Designing Our Confection\n19:58 Making Our Confection Shells\n22:07 Making Our Confection Flavors\n23:46 Filling Our Confections\n25:10 De-molding Our Chocolates!\n26:35 Taste Test\n28:20 Outro\n29:20 Subscriber Giveaway!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bA6-VEVAzCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bA6-VEVAzCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bA6-VEVAzCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bA6-VEVAzCE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bA6-VEVAzCE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Safiya Nygaard",
+        "tags": [
+          "safiya nygaard",
+          "safiya and tyler",
+          "tyler williams",
+          "safia",
+          "sofia",
+          "sofiya",
+          "escazu",
+          "escazu chocolates",
+          "chocolates",
+          "chocolate bars",
+          "chocolate confections",
+          "marbled chocolate",
+          "marbling chocolate",
+          "galaxy chocolate",
+          "galaxy chocolates",
+          "galaxy chocolate bars",
+          "galaxy chocolate confections",
+          "i made custom chocolate",
+          "chocolate factory",
+          "chocolate truffes",
+          "chocolate art",
+          "food",
+          "foodie",
+          "dessert",
+          "candy",
+          "custom candy",
+          "aesthetic chocolate bars"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Ran A Chocolate Factory For A Day",
+          "description": "HELLO FRIENDS!! I’ve always dreamed of having an opportunity to enter my Willy Wonka era, and now it’s finally here. I was ~somehow~ entrusted to take over the Escazu Chocolate factory in Raleigh, NC for a day, and you can definitely say I made the most of it. We followed the entire chocolate-making process - from bean to bar - and made two different custom chocolate creations together - a beautiful ombre bar & a marbled galaxy chocolate confection! What do you guys think of our final products? Do I have a future as a chocolate maker? \n\nIf you would like to enter the chocolate bar giveaway to win one of these cute lil guys, the Google Form is right here: https://forms.gle/FFrzputGQZ1LRyeL8\n\n(Please note that we are unable to send chocolate internationally or to P.O. boxes for this giveaway. Also, due to the ~temperamental~ nature of the chocolate, we will be sending the chocolate out in the early Fall to avoid any melting catastrophes!)\n\nAnd a big thank you goes out to the amazing team at Escazu for helping us out with this video; make sure to check out our creations on their website here - available for purchase!: https://www.escazuchocolates.com/shop-now/-c151145256\n\nYou can also find the chocolate in person at their store in Raleigh here: 936 N Blount St, Raleigh, NC 27604 \n\n(this video is NOT sponsored and we are not receiving any portion of Escazu’s sales - they are just a cool small business we love!)\n\nCheck out our merch shop here!! https://fiendishbehavior.com\n\nMy Instagram: https://www.instagram.com/safiyany/​\nMy TikTok: https://www.tiktok.com/@safiyany?\nTyler's channel: https://www.youtube.com/channel/UCc6BTuuTzfMLKj_RgwuDnQw\nOur YouTube Shorts channel: https://www.youtube.com/channel/UCLKQoTgt5BwFJJKWyeXHbig\n\nMUSIC\nVia AudioNetwork\n\nPRODUCED & EDITED by\nSafiya Nygaard\nTyler Williams\nCarey Fiock\nMelissa Douglas\nAndrew Lainhart\nPhil Kinney\nBree von Bradsky\nIshara Mathews\nMyia Lambe\nHailey Cox\nAlaina Simmons \n\nGFX by Dayana Espinoza\n\nCHAPTERS: \n0:00 Intro\n1:53 Welcome to The Factory!\n3:46 Bean Sorting\n6:22 Bean Roasting\n7:41 Bean Winnowing (Smashing)\n10:17 Bean Grinding \n12:23 Designing Our Bars\n15:05 Tempering Our Chocolate\n16:24 Flavoring Our Bars \n18:31 Designing Our Confection\n19:58 Making Our Confection Shells\n22:07 Making Our Confection Flavors\n23:46 Filling Our Confections\n25:10 De-molding Our Chocolates!\n26:35 Taste Test\n28:20 Outro\n29:20 Subscriber Giveaway!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
