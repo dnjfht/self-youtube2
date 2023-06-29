@@ -5,7 +5,7 @@ import RelatedVideos from "../components/RelatedVideos";
 import { DarkModeContext } from "../context/DarkModeContext";
 
 export default function Detail() {
-  const { darkMode } = useContext(DarkModeContext);
+  const darkMode = useContext(DarkModeContext);
 
   const {
     state: { video },
@@ -15,7 +15,7 @@ export default function Detail() {
   return (
     <div
       className={`${
-        darkMode ? "bg-[#1f1e1e] text-white" : "bg-[#d0ac88]"
+        darkMode ? "bg-[#1f1e1e] text-white" : "bg-[#855a30]"
       } w-full`}
     >
       <div>

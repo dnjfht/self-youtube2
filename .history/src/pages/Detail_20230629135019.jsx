@@ -1,23 +1,15 @@
-import React, { useContext } from "react";
+import React from "react";
 import { useLocation } from "react-router-dom";
 import ChannelInfo from "../components/ChannelInfo";
-import RelatedVideos from "../components/RelatedVideos";
-import { DarkModeContext } from "../context/DarkModeContext";
 
 export default function Detail() {
-  const { darkMode } = useContext(DarkModeContext);
-
   const {
     state: { video },
   } = useLocation();
   console.log(video);
 
   return (
-    <div
-      className={`${
-        darkMode ? "bg-[#1f1e1e] text-white" : "bg-[#d0ac88]"
-      } w-full`}
-    >
+    <div>
       <div>
         <article>
           <iframe
@@ -38,9 +30,7 @@ export default function Detail() {
           </div>
         </article>
 
-        <section>
-          <RelatedVideos id={video.id} />
-        </section>
+        <section></section>
       </div>
     </div>
   );

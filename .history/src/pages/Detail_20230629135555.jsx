@@ -5,7 +5,7 @@ import RelatedVideos from "../components/RelatedVideos";
 import { DarkModeContext } from "../context/DarkModeContext";
 
 export default function Detail() {
-  const { darkMode } = useContext(DarkModeContext);
+  const darkMode = useContext(DarkModeContext);
 
   const {
     state: { video },
