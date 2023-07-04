@@ -5,8 +5,6 @@ import { AiFillYoutube } from "react-icons/ai";
 import { ImYoutube2 } from "react-icons/im";
 import { MdOutlineLightMode, MdOutlineNightlight } from "react-icons/md";
 import { CiSearch } from "react-icons/ci";
-import { BsKeyboardFill } from "react-icons/bs";
-import { GoX } from "react-icons/go";
 import { DarkModeContext } from "../context/DarkModeContext";
 
 export default function Navbar() {
@@ -26,12 +24,6 @@ export default function Navbar() {
     e.preventDefault();
 
     navigate(`/videos/${text}`);
-  };
-
-  const handleClickDeleteText = (e) => {
-    e.preventDefault();
-
-    setText("");
   };
 
   useEffect(() => {
@@ -68,17 +60,17 @@ export default function Navbar() {
 
         {/* 검색창 input */}
         <form
-          className="w-6/12 h-full flex items-center relative"
+          className="w-6/12 h-full flex items-center"
           onSubmit={handleSearchKeyword}
         >
           <input
             className={`${
               focusOn
-                ? "w-[94%] px-9 border-[#3d39b2] placeholder:text-[#3d39b2]"
-                : darkMode && !focusOn
-                ? "border-[white] w-[86%] px-3 placeholder:text-[#fbf9f8ae] text-[#ffffff]"
-                : "w-[86%] px-3 border-[#7b5b51] placeholder:text-[#845648] text-[#41261e]"
-            }  h-[50px] py-3 box-border rounded-l-full bg-transparent border-[2px] border-solid outline-none`}
+                ? "w-[94%] border-[#3d39b2] text-[#3d39b2]"
+                : darkMode
+                ? "border-[white] w-[90%] placeholder:text-[#fbf9f8ae] text-[#ffffff]"
+                : "w-[90%] border-[#7b5b51] placeholder:text-[#845648] text-[#41261e]"
+            }  h-[50px] p-3 box-border rounded-l-full bg-transparent border-[2px] border-solid outline-none`}
             type="text"
             value={text}
             onChange={handleTextChange}
@@ -90,44 +82,6 @@ export default function Navbar() {
             }}
             placeholder="검색"
           />
-          <div
-            className={`${
-              focusOn ? "opacity-100" : "opacity-0"
-            } absolute top-[50%] mt-[-11px] left-3 text-[1.4rem] text-[#3d39b2] transition-all duration-700`}
-          >
-            <CiSearch />
-          </div>
-          <div
-            className={`${
-              text.length > 0 && focusOn
-                ? "right-[16%]"
-                : text.length > 0 && focusOn === false
-                ? "right-[19%]"
-                : text.length <= 0 && focusOn
-                ? "right-[12%]"
-                : "right-[16%]"
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }`}
-          >
-            <BsKeyboardFill />
-          </div>
-          <button
-            type="button"
-            onClick={handleClickDeleteText}
-            className={`${
-              text.length > 0 && focusOn
-                ? "opacity-100 right-[12%]"
-                : text.length > 0 && focusOn === false
-                ? "opacity-100 right-[15%]"
-                : "opacity-0 right-[18%]"
-            }
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }  transition-all duration-700`}
-          >
-            <GoX />
-          </button>
           <button
             type="submit"
             className={`${

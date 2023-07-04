@@ -104,11 +104,9 @@ export default function Navbar() {
                 : text.length > 0 && focusOn === false
                 ? "right-[19%]"
                 : text.length <= 0 && focusOn
-                ? "right-[12%]"
+                ? "right-[14%]"
                 : "right-[16%]"
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }`}
+            } absolute top-[50%] mt-[-11px] text-[1.4rem] text-[#7b5b51]`}
           >
             <BsKeyboardFill />
           </div>
@@ -122,9 +120,7 @@ export default function Navbar() {
                 ? "opacity-100 right-[15%]"
                 : "opacity-0 right-[18%]"
             }
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }  transition-all duration-700`}
+            } absolute top-[50%] mt-[-11px] text-[1.4rem] text-[#7b5b51] transition-all duration-700`}
           >
             <GoX />
           </button>

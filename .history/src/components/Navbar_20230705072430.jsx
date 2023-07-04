@@ -5,8 +5,6 @@ import { AiFillYoutube } from "react-icons/ai";
 import { ImYoutube2 } from "react-icons/im";
 import { MdOutlineLightMode, MdOutlineNightlight } from "react-icons/md";
 import { CiSearch } from "react-icons/ci";
-import { BsKeyboardFill } from "react-icons/bs";
-import { GoX } from "react-icons/go";
 import { DarkModeContext } from "../context/DarkModeContext";
 
 export default function Navbar() {
@@ -26,12 +24,6 @@ export default function Navbar() {
     e.preventDefault();
 
     navigate(`/videos/${text}`);
-  };
-
-  const handleClickDeleteText = (e) => {
-    e.preventDefault();
-
-    setText("");
   };
 
   useEffect(() => {
@@ -97,37 +89,6 @@ export default function Navbar() {
           >
             <CiSearch />
           </div>
-          <div
-            className={`${
-              text.length > 0 && focusOn
-                ? "right-[16%]"
-                : text.length > 0 && focusOn === false
-                ? "right-[19%]"
-                : text.length <= 0 && focusOn
-                ? "right-[12%]"
-                : "right-[16%]"
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }`}
-          >
-            <BsKeyboardFill />
-          </div>
-          <button
-            type="button"
-            onClick={handleClickDeleteText}
-            className={`${
-              text.length > 0 && focusOn
-                ? "opacity-100 right-[12%]"
-                : text.length > 0 && focusOn === false
-                ? "opacity-100 right-[15%]"
-                : "opacity-0 right-[18%]"
-            }
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }  transition-all duration-700`}
-          >
-            <GoX />
-          </button>
           <button
             type="submit"
             className={`${

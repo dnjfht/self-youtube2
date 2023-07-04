@@ -122,9 +122,7 @@ export default function Navbar() {
                 ? "opacity-100 right-[15%]"
                 : "opacity-0 right-[18%]"
             }
-            } absolute top-[50%] mt-[-11px] text-[1.4rem] ${
-              darkMode ? "text-[#f2eceb99]" : "text-[#7b5b51]"
-            }  transition-all duration-700`}
+            } absolute top-[50%] mt-[-11px] text-[1.4rem] text-[#7b5b51] transition-all duration-700`}
           >
             <GoX />
           </button>
