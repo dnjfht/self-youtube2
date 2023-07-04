@@ -22,14 +22,14 @@ export default function RelatedVideos({ id }) {
   const related = true;
 
   return (
-    <div className="w-full">
+    <div>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong...😔</p>}
 
       {videos && (
-        <ul className="w-full">
+        <ul>
           {videos.map((video) => {
-            return <VideoCard video={video} related={related} />;
+            return <VideoCard video={video} />;
           })}
         </ul>
       )}

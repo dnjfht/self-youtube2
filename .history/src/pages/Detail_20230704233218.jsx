@@ -45,10 +45,8 @@ export default function Detail() {
 
             <div
               className={`${
-                darkMode
-                  ? "bg-[#ffffff1a] hover:bg-[#ffffff3d]"
-                  : "bg-[#98724ca2] hover:bg-[#b2875ca2]"
-              } rounded-xl p-4 box-border mb-10 cursor-pointer transition-all duration-500`}
+                darkMode ? "bg-[#ffffff1a]" : "bg-[#98724ca2]"
+              } rounded-xl p-4 box-border mb-10 hover:bg-[#ffffff3d] cursor-pointer transition-all duration-500`}
             >
               <p className="mb-2">{timesAgo(video.snippet.publishedAt)}</p>
               <p>{video.snippet.description}</p>

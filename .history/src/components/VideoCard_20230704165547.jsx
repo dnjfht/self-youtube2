@@ -24,40 +24,23 @@ export default function VideoCard({ video, related }) {
         navigate(`/videos/watch/${video.id}`, { state: { video } });
       }}
     >
-      <img
-        className={`${
-          related ? "xl:w-1/2 sm:w-1/4 h-[94px] rounded-md" : "w-full"
-        } object-cover`}
-        src={url}
-        alt={title}
-      />
+      <img className="w-full object-cover rounded-xl" src={url} alt={title} />
 
-      <div className={`${related ? "xl:w-1/2 sm:w-3/4 w-3/4 ml-2" : "w-full"}`}>
+      <div className="mt-2 text-[1rem]">
+        <p className="font-medium">{`${related ? "" : truncate(title, 64)}`}</p>
         <p
           className={`${
-            related ? "xl:block sm:hidden hidden" : "mt-1"
-          }  font-medium text-[1rem]`}
-        >{`${related ? truncate(title, 28) : truncate(title, 54)}`}</p>
-        <p
-          className={`${
-            related ? "block xl:hidden sm:block" : "hidden"
-          } text-[0.875rem] font-semibold`}
+            darkMode ? "text-[#aaa]" : "text-[#3f3f3f]"
+          } text-[0.875rem] mt-3`}
         >
-          {title}
+          {timesAgo(publishedAt)}
         </p>
         <p
           className={`${
             darkMode ? "text-[#aaa]" : "text-[#3f3f3f]"
-          } text-[0.875rem] mt-2`}
-        >
-          {truncate(channelTitle, 26)}
-        </p>
-        <p
-          className={`${darkMode ? "text-[#aaa]" : "text-[#3f3f3f]"} ${
-            related ? "mb-0" : "mb-10"
           } text-[0.875rem]`}
         >
-          {timesAgo(publishedAt)}
+          {channelTitle}
         </p>
       </div>
     </div>

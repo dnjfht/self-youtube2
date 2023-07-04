@@ -22,7 +22,7 @@ export default function RelatedVideos({ id }) {
   const related = true;
 
   return (
-    <div className="w-full">
+    <div>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong...😔</p>}
 

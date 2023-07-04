@@ -22,11 +22,7 @@ export default function ChannelInfo({ id, title }) {
           alt={title}
         />
       )}
-      <p
-        className={`${
-          darkMode ? "text-[#f1f1f1]" : "text-[#282828]"
-        } text-[1rem] ml-3`}
-      >
+      <p className={`${darkMode ? "text-[#f1f1f1]" : " "} text-[1rem] ml-3`}>
         {title}
       </p>
     </div>

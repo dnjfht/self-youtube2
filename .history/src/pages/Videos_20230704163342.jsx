@@ -37,7 +37,7 @@ export default function Videos() {
         {isLoading && "Loading...!"}
         {error && "Error is occured...!"}
         {videos && (
-          <ul className="w-full mt-4 flex flex-wrap justify-between">
+          <ul className="w-full mt-4 flex flex-wrap">
             {videos.map((video) => {
               return <VideoCard video={video} />;
             })}
